@@ -1,0 +1,4 @@
+repository "My project (7)/Clicker Games@3573601751520@cloud"
+  path "/"
+    br "/main"
+    co "/main"
